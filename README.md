@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nachoaguirre
 - 👀 I’m interested in SaaS projects
-- 🌱 I’m currently working at Linio.com
+- 🌱 I’m currently working at [Armanet](https://github.com/armanet-labs)
